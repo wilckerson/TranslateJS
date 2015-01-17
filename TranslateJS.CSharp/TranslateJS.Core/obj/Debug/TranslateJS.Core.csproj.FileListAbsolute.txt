@@ -1,0 +1,5 @@
+C:\Users\Wilckerson\Documents\Visual Studio 2013\Projects\ConsoleApplication2\TranslateJS.Core\obj\Debug\TranslateJS.Core.csprojResolveAssemblyReference.cache
+C:\Users\Wilckerson\Documents\Visual Studio 2013\Projects\ConsoleApplication2\TranslateJS.Core\bin\Debug\TranslateJS.Core.dll
+C:\Users\Wilckerson\Documents\Visual Studio 2013\Projects\ConsoleApplication2\TranslateJS.Core\bin\Debug\TranslateJS.Core.pdb
+C:\Users\Wilckerson\Documents\Visual Studio 2013\Projects\ConsoleApplication2\TranslateJS.Core\obj\Debug\TranslateJS.Core.dll
+C:\Users\Wilckerson\Documents\Visual Studio 2013\Projects\ConsoleApplication2\TranslateJS.Core\obj\Debug\TranslateJS.Core.pdb

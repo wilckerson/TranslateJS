@@ -1,0 +1,8 @@
+c:\users\wilckerson\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\NativeJs.exe.config
+c:\users\wilckerson\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\NativeJS.csprojResolveAssemblyReference.cache
+c:\users\wilckerson\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\NativeJs.exe
+c:\users\wilckerson\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\NativeJs.pdb
+c:\users\wilckerson\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\NativeJs.exe
+c:\users\wilckerson\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\NativeJs.pdb
+c:\users\wilckerson\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Jint.dll
+C:\Users\Wilckerson\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\TranslateJS.Console.exe.config
